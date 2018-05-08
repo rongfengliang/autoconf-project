@@ -1,0 +1,3 @@
+bin_PROGRAMS=dalongdemoapp
+dalongdemoapp_SOURCES=main.c userservice.c
+include_HEADERS=userservice.h
