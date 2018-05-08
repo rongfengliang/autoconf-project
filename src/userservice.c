@@ -10,5 +10,8 @@ int logout(){
     return 1;
 }
 int createuser(user user){
-    return 1;
+    if(user.age>10){
+        return 1;
+    }
+    return 0;
 }
