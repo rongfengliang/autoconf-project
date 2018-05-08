@@ -1,6 +1,7 @@
 # basic autoconf c project demo
 
 > maybe you must install automake first
+
 ## How to init this project
 
 ```bash
