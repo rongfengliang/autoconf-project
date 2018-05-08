@@ -13,6 +13,8 @@ dalongdemoapp-0.0.1.tar.gz
 depcomp
 install-sh
 missing
+Makefile.in
+Makefile
 stamp-h1
 src/.deps
 src/dalongdemoapp
