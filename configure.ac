@@ -15,6 +15,7 @@ AC_PROG_AWK
 AC_PROG_MKDIR_P
 
 # Checks for libraries.
+AC_CHECK_LIB([curl])
 
 # Checks for header files.
 AC_CHECK_HEADERS([string.h])

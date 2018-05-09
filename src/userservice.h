@@ -8,3 +8,4 @@ typedef struct{
 int login(const char *username,  const char *userpassword);
 int logout();
 int createuser(user user);
+void printcontent();

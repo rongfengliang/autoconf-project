@@ -9,5 +9,6 @@ int main(){
   insertuser.name="dalong";
   int createresult = createuser(insertuser);
   printf("usercreate result %d\n",createresult);
+  printcontent();
   return 0;
 }
